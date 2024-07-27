@@ -1,13 +1,14 @@
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=30&center=true&vCenter=true&width=500&height=70&duration=2700&lines=Namaste🙏+I'm+अभय;Welcome+To+My+Coding+Dojo!👋;" />
 </h1>
-
 <h3 align="center">Full-Stack Developer | Passionate About Exploring Cutting-Edge Technologies</h3>
+<hr/>
+
 
 ### About Me
-- **Final year IT undergrad pursuing my Bachelor's Degree in Information Technology.**
-- 🌱 **Currently Learning**: Next.js and Web3
-- ⚡ **Fun Fact**: I love to play FIFA 24
+ ##### 🧠 **Final year IT undergrad pursuing my Bachelor's Degree in Information Technology.**
+ ##### 🌱 **Currently Learning**: Next.js , Web3 and Networking Related Stuffs 
+ ##### ⚡ **Fun Fact**: I love to play FIFA & Solve DSA Problems
 
 <br/>
 <hr/>
@@ -76,9 +77,9 @@
 
 <h3 align="center">GitHub Stats:</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abhayshaw01&show_icons=true&locale=en" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abhayshaw01&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhayshaw01&" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abhayshaw01&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=abhayshaw01&show_icons=true&locale=en" alt="GitHub Stats" />
 </p>
 
 <br/>
