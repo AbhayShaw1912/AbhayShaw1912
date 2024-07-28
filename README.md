@@ -84,6 +84,10 @@
 
 <br/>
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+
 <div align="center">
   <h2>🐱‍👤 My Contributions 🐱‍👤</h2>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/AbhayShaw01/AbhayShaw01/output/github-contribution-grid-snake.svg" />
