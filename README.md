@@ -137,6 +137,6 @@ JavaScript               3 repos             ███████░░░░�
   <picture>
   <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/AbhayShaw01/AbhayShaw01/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="github-snake.svg" />
   </picture>
 </div>
