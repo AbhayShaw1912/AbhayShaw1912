@@ -134,5 +134,5 @@ JavaScript               3 repos             ███████░░░░�
 
 <div align="center">
   <h2>🐱‍👤 My Contributions 🐱‍👤</h2>
-   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/AbhayShaw01/AbhayShaw01/output/github-contribution-grid-snake-dark.svg?palette=github-dark />
+   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/AbhayShaw01/AbhayShaw01/output/github-contribution-grid-snake-dark.svg?palette=github-dar" />
 </div>
