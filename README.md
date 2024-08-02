@@ -7,7 +7,7 @@
 
 ### About Me
  #### 🧠 **Final year IT undergrad pursuing my Bachelor's Degree in Information Technology.**
- #### 🌱 **Currently Learning**: Next.js , Web3 and Networking Related Stuffs 
+ #### 🌱 **Currently Learning**: Next.js and Networking Related Stuffs 
  #### ⚡ **Fun Fact**: I love to play FIFA & Solve DSA Problems
 
 <br/>
