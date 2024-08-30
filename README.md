@@ -106,13 +106,13 @@ Sunday                   22 commits          ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Other                    5 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Bash                     5 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-WSL                      5 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in TypeScript** 
@@ -125,7 +125,7 @@ JavaScript               3 repos             ███████░░░░�
 
 
 
- Last Updated on 29/08/2024 00:58:38 UTC
+ Last Updated on 30/08/2024 00:59:02 UTC
 <!--END_SECTION:waka-->
 
 
