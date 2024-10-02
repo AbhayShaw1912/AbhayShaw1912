@@ -9,7 +9,13 @@
  #### 🧠 **Final year IT undergrad pursuing my Bachelor's Degree in Information Technology.**
  #### 🌱 **Currently Learning**: Next.js and Networking Related Stuffs 
  #### ⚡ **Fun Fact**: I love to play FIFA & Solve DSA Problems
+<hr/>
 
+<p>
+  <a href="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31sfm2cwtstqosqj3kuq6ykpoqxm&redirect=true">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31sfm2cwtstqosqj3kuq6ykpoqxm&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true"/>
+  </a>
+</p>
 <br/>
 <hr/>
 <h3 align="center">Languages and Tools</h3>
