@@ -99,13 +99,16 @@
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+JavaScript               3 hrs 35 mins       ████████████████████████░   94.03 % 
+CSS                      13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.72 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
+TypeScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+WebStorm                 3 hrs 49 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  3 hrs 49 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -118,7 +121,7 @@ JavaScript               5 repos             ██████████░�
 
 
 
- Last Updated on 26/10/2024 01:01:29 UTC
+ Last Updated on 27/10/2024 01:07:47 UTC
 <!--END_SECTION:waka-->
 
 
