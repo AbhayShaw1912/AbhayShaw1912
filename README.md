@@ -93,7 +93,7 @@
 <hr>
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-82.9%20thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-218.1%20thousand%20lines%20of%20code-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -118,7 +118,7 @@ JavaScript               4 repos             ████████░░░�
 
 
 
- Last Updated on 27/11/2024 01:07:21 UTC
+ Last Updated on 28/11/2024 01:07:39 UTC
 <!--END_SECTION:waka-->
 
 
