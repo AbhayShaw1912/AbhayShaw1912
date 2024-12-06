@@ -93,7 +93,7 @@
 <hr>
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-218.1%20thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-73.4%20thousand%20lines%20of%20code-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -111,14 +111,14 @@ No Activity Tracked This Week
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               8 repos             █████████████████░░░░░░░░   66.67 % 
-JavaScript               4 repos             ████████░░░░░░░░░░░░░░░░░   33.33 % 
+TypeScript               7 repos             ██████████████████░░░░░░░   70.00 % 
+JavaScript               3 repos             ████████░░░░░░░░░░░░░░░░░   30.00 % 
 ```
 
 
 
 
- Last Updated on 05/12/2024 01:09:19 UTC
+ Last Updated on 06/12/2024 01:08:13 UTC
 <!--END_SECTION:waka-->
 
 
