@@ -1,4 +1,11 @@
 <h1 align="center">
+  <a href="https://github.com/devxb/gitanimals">
+<img
+  src="https://render.gitanimals.org/farms/AbhayShaw01"
+  width="600"
+  height="300"
+/>
+</a>
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=30&center=true&vCenter=true&width=500&height=70&duration=2700&lines=Namaste🙏+I'm+अभय;Welcome+To+My+Coding+Dojo!👋;" />
 </h1>
 <h3 align="center">Full-Stack Developer | Passionate About Exploring Cutting-Edge Technologies</h3>
