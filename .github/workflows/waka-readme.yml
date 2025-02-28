@@ -25,3 +25,4 @@ jobs:
           SHOW_COMMIT: "False"
           SHOW_TIMEZONE: "False"
           LOCALE: "en"
+          SYMBOL_VERSION:  "2"
