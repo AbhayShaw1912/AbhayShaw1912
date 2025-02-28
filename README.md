@@ -88,21 +88,16 @@
 
 <br/>
 <hr>
-<h3 align="center">GitHub Stats</h3>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abhayshaw01&theme=dark&show_icons=true&locale=en" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abhayshaw01&theme=dark&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhayshaw01&theme=dark" alt="GitHub Streak" />
 
-</p>
 
 <br/>
-<hr>
+
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-77.3%20thousand%20lines%20of%20code-blue)
 
-📊 **This Week I Spent My Time On** 
+<h2>
+📊 This Week I Spent My Time On   
+</h2>
 
 ```text
 💬 Programming Languages: 
