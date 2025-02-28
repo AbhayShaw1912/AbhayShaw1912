@@ -1,10 +1,5 @@
 <h1 align="center">
   <a href="https://github.com/devxb/gitanimals">
-<img
-  src="https://render.gitanimals.org/farms/AbhayShaw01"
-  width="600"
-  height="300"
-/>
 </a>
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=30&center=true&vCenter=true&width=500&height=70&duration=2700&lines=Namaste🙏+I'm+अभय;Welcome+To+My+Coding+Dojo!👋;" />
 </h1>
@@ -18,7 +13,7 @@
  #### ⚡ **Fun Fact**: I love to play FIFA & Solve DSA Problems
 <hr/>
 
-<p>
+<p >
   <a href="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31sfm2cwtstqosqj3kuq6ykpoqxm&redirect=true">
     <img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31sfm2cwtstqosqj3kuq6ykpoqxm&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true"/>
   </a>
